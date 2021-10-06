@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2825 수업시간에 교수
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "랜덤숫자N개뽑기", "랜덤숫자N개뽑기\랜덤숫자N개뽑기.vcxproj", "{C2958DE0-5EC3-4D47-ABA1-7D1E611B5A03}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2206 벽 부수고 이동하기", "2206 벽 부수고 이동하기\2206 벽 부수고 이동하기.vcxproj", "{C7B90B4A-5E17-4ACD-A836-D81A7543F911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{C2958DE0-5EC3-4D47-ABA1-7D1E611B5A03}.Release|x64.Build.0 = Release|x64
 		{C2958DE0-5EC3-4D47-ABA1-7D1E611B5A03}.Release|x86.ActiveCfg = Release|Win32
 		{C2958DE0-5EC3-4D47-ABA1-7D1E611B5A03}.Release|x86.Build.0 = Release|Win32
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Debug|x64.ActiveCfg = Debug|x64
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Debug|x64.Build.0 = Debug|x64
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Debug|x86.Build.0 = Debug|Win32
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Release|x64.ActiveCfg = Release|x64
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Release|x64.Build.0 = Release|x64
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Release|x86.ActiveCfg = Release|Win32
+		{C7B90B4A-5E17-4ACD-A836-D81A7543F911}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
