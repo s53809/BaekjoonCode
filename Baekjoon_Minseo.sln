@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2206 벽 부수고 이동�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1504 특정한 최단 경로", "1504 특정한 최단 경로\1504 특정한 최단 경로.vcxproj", "{B1E7D625-5C59-4FEE-9D62-D4AB8E0749DC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1167 트리의 지름", "1167 트리의 지름\1167 트리의 지름.vcxproj", "{D0F1C50B-CE6A-4328-9126-D0BFC797683D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{B1E7D625-5C59-4FEE-9D62-D4AB8E0749DC}.Release|x64.Build.0 = Release|x64
 		{B1E7D625-5C59-4FEE-9D62-D4AB8E0749DC}.Release|x86.ActiveCfg = Release|Win32
 		{B1E7D625-5C59-4FEE-9D62-D4AB8E0749DC}.Release|x86.Build.0 = Release|Win32
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Debug|x64.ActiveCfg = Debug|x64
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Debug|x64.Build.0 = Debug|x64
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Debug|x86.Build.0 = Debug|Win32
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Release|x64.ActiveCfg = Release|x64
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Release|x64.Build.0 = Release|x64
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Release|x86.ActiveCfg = Release|Win32
+		{D0F1C50B-CE6A-4328-9126-D0BFC797683D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
