@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1167 트리의 지름", "11
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1238 파티", "1238 파티\1238 파티.vcxproj", "{D75B9B6F-7B6C-4A9C-B7B3-3C7A4CCD2DFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1920 수 찾기", "1920 수 찾기\1920 수 찾기.vcxproj", "{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{D75B9B6F-7B6C-4A9C-B7B3-3C7A4CCD2DFE}.Release|x64.Build.0 = Release|x64
 		{D75B9B6F-7B6C-4A9C-B7B3-3C7A4CCD2DFE}.Release|x86.ActiveCfg = Release|Win32
 		{D75B9B6F-7B6C-4A9C-B7B3-3C7A4CCD2DFE}.Release|x86.Build.0 = Release|Win32
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Debug|x64.ActiveCfg = Debug|x64
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Debug|x64.Build.0 = Debug|x64
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Debug|x86.Build.0 = Debug|Win32
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Release|x64.ActiveCfg = Release|x64
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Release|x64.Build.0 = Release|x64
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Release|x86.ActiveCfg = Release|Win32
+		{82C205A5-C414-47E2-A4AF-1FFB7D0CDEAC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
