@@ -42,7 +42,6 @@ int main() {
 	for (int i = 0; i < N; i++) {
 		cin >> x[i];
 	}
-
 	sort(x.begin(), x.end());
 	vector<int> ansX;
 	cin >> M;
