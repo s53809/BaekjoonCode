@@ -6,7 +6,7 @@ typedef long long int ll;
 
 ll K, N;
 vector<ll> x;
-//배열에 있는 값 중 제일 작은 값부터 시작
+
 ll twobun(ll num) {
 	ll mid = num, start = 0, end = num;
 	ll lansonGetsu = 0;
