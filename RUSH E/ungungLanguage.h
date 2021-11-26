@@ -1,0 +1,30 @@
+#pragma once
+#define ÀÌ using
+#define ÀÌÀ× namespace
+#define À×ÀÌ std
+#define ¿õÀÌ int
+#define ¿õ¿ìÀÌ main
+#define ¿ì¿õÀÌ cout
+#define ¿ì¿õ <<
+#define ¾È³ç¿õ "Hello World!"
+#define ¼¼¹Ì¿õ ;
+#define ¿õ¿õ¿ìÀÌ return
+#define À× 0
+#define ¿õ¿ì >>
+#define ÀÌ¿õ¿ì cin
+#define ¿õ¿õ ::
+#define ¿õÀÌ¿õ +
+#define ¿õÀÌÀ×¿õ -
+#define ¿õ¿õ¿õ *
+#define ¿õ¿ì¿õ¿õ /
+#define ¿õ_¿õ '\n'
+#define ÀÌÀÌÀ× ,
+#define °ıÈ£¿¬¿õ (
+#define °ıÈ£´İÀº¿õ )
+#define Áß°ıÈ£¿¬¿õ {
+#define Áß°ıÈ£´İÀº¿õ }
+#define ´ë°ıÈ£¿¬¿õ [
+#define ´ë°ıÈ£´İÀº¿õ ]
+#define ¿õ¿õÀÌ´Â¿øÁÖ¿¡Á¸ÀçÇÑ´Ù &
+#define ÀÌ¸ÚÁø¿õ¿õÀÌ¿¡°ÔÃàº¹À» double
+#define ÀÌ°ÍÀÌ¸®¾ó¿õ¿õÀÌÄ³¸¯ÅÍ°¡»ı°¢´ë·Î±×·ÁÁö´Â¿õ¿õÀÌ float

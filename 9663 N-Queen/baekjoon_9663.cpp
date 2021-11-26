@@ -42,9 +42,9 @@ void nQueen(int xStep) {
 		ans++;
 		return;
 	}
-	for (int i = 0; i < N; i++) {
+	/*for (int i = 0; i < N; i++) {
 		x[i][xStep] = 0;
-	}
+	}*/
 	for (int i = 0; i < N; i++) {
 		if (Gomsa(xStep, i) == 1) {
 			x[i][xStep] = 1;

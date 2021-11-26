@@ -79,7 +79,7 @@ int main() {
 		for (int j = 0; j < M; j++) {
 			dist[0][i][j] = 0;
 			dist[1][i][j] = 0;
-			visited[0][i][j] = false;
+			visited[0][i][j] = false;	
 			visited[1][i][j] = false;
 			scanf("%1d", &x[i][j]);
 		}
