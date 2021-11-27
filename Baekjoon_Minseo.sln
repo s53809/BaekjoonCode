@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2178 미로 탐색", "2178 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1753 최단경로", "1753 최단경로\1753 최단경로.vcxproj", "{2334BC52-AA58-43EA-8F97-0A3FE0420A98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1916 최소비용 구하기", "1916 최소비용 구하기\1916 최소비용 구하기.vcxproj", "{AA4E1069-EBF4-4464-9726-CF690023BBA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{2334BC52-AA58-43EA-8F97-0A3FE0420A98}.Release|x64.Build.0 = Release|x64
 		{2334BC52-AA58-43EA-8F97-0A3FE0420A98}.Release|x86.ActiveCfg = Release|Win32
 		{2334BC52-AA58-43EA-8F97-0A3FE0420A98}.Release|x86.Build.0 = Release|Win32
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Debug|x64.ActiveCfg = Debug|x64
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Debug|x64.Build.0 = Debug|x64
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Debug|x86.Build.0 = Debug|Win32
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Release|x64.ActiveCfg = Release|x64
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Release|x64.Build.0 = Release|x64
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Release|x86.ActiveCfg = Release|Win32
+		{AA4E1069-EBF4-4464-9726-CF690023BBA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -22,7 +22,6 @@ void daExtra(int strNode) {
 		if (x[now].length < dist) {
 			continue;
 		}
-		std::cout << dist << ' ' << now << '\n';
 		for (int i = 0; i < x[now].adjNode.size(); i++) {
 			int cost = dist + x[now].adjNode[i].second;
 			if (cost < x[x[now].adjNode[i].first].length) {
