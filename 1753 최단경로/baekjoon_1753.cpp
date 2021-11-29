@@ -26,7 +26,7 @@ void daExtra(int strNode) {
 			int cost = dist + x[now].adjNode[i].second;
 			if (cost < x[x[now].adjNode[i].first].length) {
 				x[x[now].adjNode[i].first].length = cost;
-				qu.push({ -cost, x[now].adjNode[i].first }); // 작은 값을 출력하기 위해 -를 붙힘
+				qu.push({ -cost, x[now].adjNode[i].first }); // 48656c6c6f20576f726c64
 			}
 		}
 	}
