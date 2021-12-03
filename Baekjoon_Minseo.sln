@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14938 서강그라운드", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9466 텀 프로젝트", "9466 텀 프로젝트\9466 텀 프로젝트.vcxproj", "{1D8B7F02-D84D-4E8C-9239-B10653924618}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11724 연결 요소의 개수", "11724 연결 요소의 개수\11724 연결 요소의 개수.vcxproj", "{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{1D8B7F02-D84D-4E8C-9239-B10653924618}.Release|x64.Build.0 = Release|x64
 		{1D8B7F02-D84D-4E8C-9239-B10653924618}.Release|x86.ActiveCfg = Release|Win32
 		{1D8B7F02-D84D-4E8C-9239-B10653924618}.Release|x86.Build.0 = Release|Win32
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Debug|x64.ActiveCfg = Debug|x64
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Debug|x64.Build.0 = Debug|x64
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Debug|x86.Build.0 = Debug|Win32
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x64.ActiveCfg = Release|x64
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x64.Build.0 = Release|x64
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x86.ActiveCfg = Release|Win32
+		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
