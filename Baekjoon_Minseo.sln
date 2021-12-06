@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17129 윌리암슨수액빨
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1717 집합의 표현", "1717 집합의 표현\1717 집합의 표현.vcxproj", "{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1976 여행 가자", "1976 여행 가자\1976 여행 가자.vcxproj", "{6CB3A567-54C4-4A3A-B336-6D49D203FC12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x64.Build.0 = Release|x64
 		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x86.ActiveCfg = Release|Win32
 		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x86.Build.0 = Release|Win32
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Debug|x64.Build.0 = Debug|x64
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Debug|x86.Build.0 = Debug|Win32
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Release|x64.ActiveCfg = Release|x64
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Release|x64.Build.0 = Release|x64
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Release|x86.ActiveCfg = Release|Win32
+		{6CB3A567-54C4-4A3A-B336-6D49D203FC12}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
