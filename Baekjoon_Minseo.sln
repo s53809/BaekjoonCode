@@ -63,6 +63,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9466 텀 프로젝트", "94
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11724 연결 요소의 개수", "11724 연결 요소의 개수\11724 연결 요소의 개수.vcxproj", "{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17129 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유", "17129 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유\17129 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.vcxproj", "{77B45903-B038-418E-A86D-93C89113DD45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1717 집합의 표현", "1717 집합의 표현\1717 집합의 표현.vcxproj", "{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +315,22 @@ Global
 		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x64.Build.0 = Release|x64
 		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x86.ActiveCfg = Release|Win32
 		{C3CDC380-0945-4C71-99F4-FD16BD7F6C5A}.Release|x86.Build.0 = Release|Win32
+		{77B45903-B038-418E-A86D-93C89113DD45}.Debug|x64.ActiveCfg = Debug|x64
+		{77B45903-B038-418E-A86D-93C89113DD45}.Debug|x64.Build.0 = Debug|x64
+		{77B45903-B038-418E-A86D-93C89113DD45}.Debug|x86.ActiveCfg = Debug|Win32
+		{77B45903-B038-418E-A86D-93C89113DD45}.Debug|x86.Build.0 = Debug|Win32
+		{77B45903-B038-418E-A86D-93C89113DD45}.Release|x64.ActiveCfg = Release|x64
+		{77B45903-B038-418E-A86D-93C89113DD45}.Release|x64.Build.0 = Release|x64
+		{77B45903-B038-418E-A86D-93C89113DD45}.Release|x86.ActiveCfg = Release|Win32
+		{77B45903-B038-418E-A86D-93C89113DD45}.Release|x86.Build.0 = Release|Win32
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Debug|x64.ActiveCfg = Debug|x64
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Debug|x64.Build.0 = Debug|x64
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Debug|x86.Build.0 = Debug|Win32
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x64.ActiveCfg = Release|x64
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x64.Build.0 = Release|x64
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x86.ActiveCfg = Release|Win32
+		{88FEBDC3-BFAE-49FE-8182-413F266E7CFA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
